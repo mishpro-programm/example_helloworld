@@ -1,2 +1,2 @@
-Hello world package
+Hello world package\
 Usage: ```import helloworld```
